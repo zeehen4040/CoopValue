@@ -11,9 +11,9 @@ The dataset contains a total of 1,778 instances. Each instance contains:
 ```json
 {
   "Scenario": "A textual description of the multi-agent situation.",
-  "Cooperation_type": "Type of interaction between agents (Reciprocal, Coopetitive, or Altruistic).",
-  "Value_1": "The Schwartz value primarily associated with the first agent.",
-  "Value_2": "The Schwartz value primarily associated with the second agent.",
+  "Cooperation type": "Type of interaction between agents (Reciprocal, Coopetitive, or Altruistic).",
+  "Value 1": "The Schwartz value primarily associated with the first agent.",
+  "Value 2": "The Schwartz value primarily associated with the second agent.",
   "Conflict Rationale": "Explanation of why the agents' objectives are in conflict.",
   "Cooperation Rationale": "Explanation of why the interaction is categorized under the specified cooperation type."
 }
